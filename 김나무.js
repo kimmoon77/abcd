@@ -1,4 +1,4 @@
-const canvas = document.getElementById("myCanvas");
+const canvas = document.getElementById("myCanvas2");
 const ctx = canvas.getContext("2d");
 const startX = canvas.width / 2;
 const startY = canvas.height;
